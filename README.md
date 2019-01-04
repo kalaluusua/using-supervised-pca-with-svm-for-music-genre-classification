@@ -4,7 +4,7 @@ This data analysis project is a part of a Aalto University course, Machine Learn
 
 ## Format
 
-This project uses IPYNB format. An IPYNB file is a notebook document used by Jupyter Notebook, an interactive computational environment designed to help scientists work with the Python language and their data. For more information refer to [https://fileinfo.com/extension/ipynb](https://fileinfo.com/extension/ipynb.)
+This project uses IPYNB format. An IPYNB file is a notebook document used by Jupyter Notebook, an interactive computational environment designed to help scientists work with the Python language and their data. For more information refer to [https://fileinfo.com/extension/ipynb.](https://fileinfo.com/extension/ipynb)
 
 ## Authors
 
